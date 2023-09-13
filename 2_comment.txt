@@ -1,0 +1,16 @@
+
+In short, comments in HTML are used to add notes or explanations within your code to make it more understandable for developers. They are not displayed on the webpage and are meant for documentation and communication among developers.
+Here's how we can use comments in an HTML document:
+Single-Line Comments: Single-line comments are used for brief explanations or notes on a single line.
+<!-- This is a single-line comment -->
+Multi-Line Comments: Multi-line comments are used for more extensive comments that span multiple lines.
+<!--
+This is a multi-line comment.
+It can be used to provide detailed explanations
+or to temporarily disable a portion of code.
+-->
+Conditional Comments (Obsolete): Conditional comments were used in older versions of Internet Explorer to apply specific styles or scripts only to certain versions of the browser. They are no longer supported in modern browsers and are considered obsolete.
+<!--[if IE]>
+<p>This is only displayed in Internet Explorer.</p>
+<![endif]-->
+Remember that comments are not displayed on the webpage itself but are an important part of maintaining and documenting your HTML code for yourself and others who may work on the project.
